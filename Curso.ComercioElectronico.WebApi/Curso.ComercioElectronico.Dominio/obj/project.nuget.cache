@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vGXN6CQwlvwdjn25Q5hYlKla1SkGFg9INupKIW29Cgr4F0C5BAEzsp8eVMbJoTvyBdFunLPN6xZF6OEkxzvw0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Willirin\\Documents\\GitHub\\Ecommerce\\Curso.ComercioElectronico.WebApi\\Curso.ComercioElectronico.Dominio\\Curso.ComercioElectronico.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Willirin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Willirin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Willirin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Willirin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
